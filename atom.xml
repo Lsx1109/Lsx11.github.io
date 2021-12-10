@@ -6,7 +6,7 @@
   <link href="http://lsx1109.github.io/atom.xml" rel="self"/>
   
   <link href="http://lsx1109.github.io/"/>
-  <updated>2021-12-06T13:45:48.094Z</updated>
+  <updated>2021-12-10T13:16:10.458Z</updated>
   <id>http://lsx1109.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hehe</title>
+    <link href="http://lsx1109.github.io/2021/12/10/hehe/"/>
+    <id>http://lsx1109.github.io/2021/12/10/hehe/</id>
+    <published>2021-12-10T13:10:21.000Z</published>
+    <updated>2021-12-10T13:16:10.458Z</updated>
+    
+    
+    
+    
+    <category term="category" scheme="http://lsx1109.github.io/categories/category/"/>
+    
+    
+    <category term="123" scheme="http://lsx1109.github.io/tags/123/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
