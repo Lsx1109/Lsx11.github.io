@@ -4,38 +4,25 @@
   
     
     <entry>
-      <title>hehe</title>
-      <link href="/2021/12/10/hehe/"/>
-      <url>/2021/12/10/hehe/</url>
+      <title>关于高考</title>
+      <link href="/2021/12/13/guan-yu-gao-kao/"/>
+      <url>/2021/12/13/guan-yu-gao-kao/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>  最后一科，英语</p><p>  下雨了，考试前跟同学说，万一要是待会打雷听不到听力就热闹了</p><p>  好在听力声音大到我听不到雷声了</p><p>  卷子答完了，还有20分钟，决定不查了</p><p>  想到这—切都结束了</p><p>  想到生活这辈子都不会再给我这样的20分钟</p><p>  外面很暗，考场很亮</p><p>  答题卡的颜色很养眼，椅子很舒服</p><p>  我坐在上面</p><p>  什么都不用想  </p>]]></content>
       
       
       <categories>
           
-          <category> category </category>
+          <category> 其他 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 123 </tag>
+            <tag> 高考 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/12/06/hello-world/"/>
-      <url>/2021/12/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
