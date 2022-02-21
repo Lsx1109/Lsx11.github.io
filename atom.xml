@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lishuoxian</title>
   
-  <subtitle>Leeのブログ</subtitle>
+  <subtitle>Lee</subtitle>
   <link href="http://lsx1109.github.io/atom.xml" rel="self"/>
   
   <link href="http://lsx1109.github.io/"/>
@@ -22,19 +22,6 @@
     <id>http://lsx1109.github.io/2022/02/21/b/</id>
     <published>2022-02-21T06:43:44.000Z</published>
     <updated>2022-02-21T06:43:44.774Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>a</title>
-    <link href="http://lsx1109.github.io/2022/02/21/a/"/>
-    <id>http://lsx1109.github.io/2022/02/21/a/</id>
-    <published>2022-02-21T06:41:13.000Z</published>
-    <updated>2022-02-21T06:41:13.336Z</updated>
     
     
     
