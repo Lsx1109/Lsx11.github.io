@@ -6,7 +6,7 @@
   <link href="http://lsx1109.github.io/atom.xml" rel="self"/>
   
   <link href="http://lsx1109.github.io/"/>
-  <updated>2022-02-21T07:09:23.606Z</updated>
+  <updated>2022-02-22T00:47:36.175Z</updated>
   <id>http://lsx1109.github.io/</id>
   
   <author>
@@ -17,15 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我女朋友总是说她需要时间和距离，请问她是想算速度吗？</title>
-    <link href="http://lsx1109.github.io/2022/02/21/wo-nu-peng-you-zong-shi-shuo-ta-xu-yao-shi-jian-he-ju-chi-qing-wen-ta-shi-xiang-suan-su-du-ma/"/>
-    <id>http://lsx1109.github.io/2022/02/21/wo-nu-peng-you-zong-shi-shuo-ta-xu-yao-shi-jian-he-ju-chi-qing-wen-ta-shi-xiang-suan-su-du-ma/</id>
-    <published>2022-02-21T07:09:23.000Z</published>
-    <updated>2022-02-21T07:09:23.606Z</updated>
+    <title>为什么 DK 少、JK 多？</title>
+    <link href="http://lsx1109.github.io/2022/02/22/wei-shi-me-dk-shao-jk-duo/"/>
+    <id>http://lsx1109.github.io/2022/02/22/wei-shi-me-dk-shao-jk-duo/</id>
+    <published>2022-02-22T00:40:14.000Z</published>
+    <updated>2022-02-22T00:47:36.175Z</updated>
+    
+    <content type="html"><![CDATA[<p>因为你看的是广义相对论。<br>dk会出现在对动量的积分里，jk会出现在指标里。广义相对论需要大量的指标运算，dk很少。以Maggiore的Gravitational Waves I为例，全书出现138次jk，<br><img src="/.io//0.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;因为你看的是广义相对论。&lt;br&gt;dk会出现在对动量的积分里，jk会出现在指标里。广义相对论需要大量的指标运算，dk很少。以Maggiore的Gravitational Waves I为例，全书出现138次jk，&lt;br&gt;&lt;img src=&quot;/.io//0.png&quot;&gt;&lt;/p&gt;
+</summary>
+      
     
     
     
     
+    <category term="JK" scheme="http://lsx1109.github.io/tags/JK/"/>
+    
+    <category term="DK" scheme="http://lsx1109.github.io/tags/DK/"/>
     
   </entry>
   
